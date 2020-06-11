@@ -9,7 +9,7 @@ class Solution:
 
       # total lines
       l = len(board)
-      if l < 1:
+      if l < 2:
         return
 
       # total columns
@@ -66,7 +66,7 @@ s = Solution()
 
 lst = []   
 s.solve(lst)
-print(lst)
+print(lst) 
 
 lst = [['O'],
        ['O']]   
