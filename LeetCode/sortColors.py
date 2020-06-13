@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/sort-colors/
+# Jose Luiz Mattos Gomes
 
 from typing import List
 

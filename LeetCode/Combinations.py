@@ -1,4 +1,6 @@
 # https://leetcode.com/problems/combinations/
+# Jose Luiz Mattos Gomes
+
 from typing import List
 from itertools import combinations
 

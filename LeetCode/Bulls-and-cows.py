@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/bulls-and-cows/
+# Jose Luiz Mattos Gomes
 
 class Solution:
   def getHint(self, secret: str, guess: str) -> str:
