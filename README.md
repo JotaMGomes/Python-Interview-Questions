@@ -18,3 +18,4 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **13** [Count-Primes](LeetCode/CountPrimes.py)<br>
 **14** [Rotate-Array-Right](LeetCode/RotateArray.py)<br>
 **14** [Valid-Palindrome](LeetCode/ValidPalindrome.py)<br>
+**15** [Valid-Parentheses](LeetCode/ValidParentheses.py)<br>
