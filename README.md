@@ -14,3 +14,4 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **09** [FizzBuzz](LeetCode/FizzBuzz.py)<br>
 **10** [Reverse-Linked-List](LeetCode/ReverseLinkedList.py)<br>
 **11** [Reverse-Integer](LeetCode/ReversInteger.py)<br>
+**12** [Roman-to-Integer](LeetCode/RomanToInteger.py)<br>
