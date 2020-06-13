@@ -10,3 +10,4 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **05** [Two-Sum](LeetCode/TwoSum.py)<br>
 **06** [Reverse-String](LeetCode/ReverseString.py)<br>
 **07** [Single-Number](LeetCode/SingleNumber.py)<br>
+**08** [Maximum-Depth-of-Binary-Tree](LeetCode/SingleNumber.py)<br>
