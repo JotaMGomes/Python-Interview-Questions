@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/sort-colors/
+# https://leetcode.com/problems/two-sum/
 # Jose Luiz Mattos Gomes
 
 from typing import List

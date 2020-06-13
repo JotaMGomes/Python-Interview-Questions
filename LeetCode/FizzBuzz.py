@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/sort-colors/
+# https://leetcode.com/problems/fizz-buzz/
 # Jose Luiz Mattos Gomes
 
 from typing import List
