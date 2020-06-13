@@ -13,3 +13,4 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **08** [Maximum-Depth-of-Binary-Tree](LeetCode/SingleNumber.py)<br>
 **09** [FizzBuzz](LeetCode/FizzBuzz.py)<br>
 **10** [Reverse-Linked-List](LeetCode/ReverseLinkedList.py)<br>
+**11** [Reverse-Integer](LeetCode/ReversInteger.py)<br>
