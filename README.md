@@ -21,3 +21,6 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **16** [Valid-Parentheses](LeetCode/ValidParentheses.py)<br>
 **17** [Best-Time-Buy-Sell-Stock](LeetCode/BestTimeProfit.py)<br>
 **18** [Arranging-Coins](LeetCode/ArrangingCoins.py)<br>
+
+## [Codility](https://app.codility.com/programmers/)
+**01** [CodeDemo](Codility/CodeDemo.py)<br>
