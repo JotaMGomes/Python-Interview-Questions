@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/fizz-buzz/
+# https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
 # Jose Luiz Mattos Gomes
 
 from typing import List

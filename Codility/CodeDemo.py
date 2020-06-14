@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/fizz-buzz/
+# https://app.codility.com/demo/take-sample-test/
 # Jose Luiz Mattos Gomes
 
 from typing import List
