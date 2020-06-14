@@ -25,4 +25,5 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 ## [Codility](https://app.codility.com/programmers/)
 **01** [CodeDemo](Codility/CodeDemo.py)<br>
 **02** [BinaryGap](Codility/BinaryGap.py)<br>
-**03** [FrogJmp](src/Codility/FrogJmp.py)<br>
+**03** [FrogJmp](Codility/FrogJmp.py)<br>
+**04** [FrogJmp](Codility/TapeEquilibrium.py)<br>
