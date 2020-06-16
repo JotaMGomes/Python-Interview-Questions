@@ -23,7 +23,8 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **18** [Arranging-Coins](LeetCode/ArrangingCoins.py)<br>
 
 ## [Codility](https://app.codility.com/programmers/)
-**01** [CodeDemo](Codility/CodeDemo.py)<br>
-**02** [BinaryGap](Codility/BinaryGap.py)<br>
-**03** [FrogJmp](Codility/FrogJmp.py)<br>
-**04** [FrogJmp](Codility/TapeEquilibrium.py)<br>
+**01** [Code-Demo](Codility/CodeDemo.py)<br>
+**02** [Binary-Gap](Codility/BinaryGap.py)<br>
+**03** [Frog-Jmp](Codility/FrogJmp.py)<br>
+**04** [Tape-Equilibrium](Codility/TapeEquilibrium.py)<br>
+**05** [Frog-River-One](Codility/FrogRiverOne.py)<br>
