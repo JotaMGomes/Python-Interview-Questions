@@ -1,5 +1,5 @@
-# Python-Interview-Questions
-My solutions for some interview questions.<br>
+# Python-Problems-Solutions
+My solution for some problems from LeetCode and Codility.<br>
 Obs.: When more then one solution: My first attempt and after some research.<br>
 
 ## [LeetCode](https://leetcode.com/problemset/all/)
