@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/sort-colors/
+# https://leetcode.com/problems/reverse-string/
 # Jose Luiz Mattos Gomes
 
 from typing import List
