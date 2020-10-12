@@ -28,3 +28,9 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **03** [Frog-Jmp](Codility/FrogJmp.py)<br>
 **04** [Tape-Equilibrium](Codility/TapeEquilibrium.py)<br>
 **05** [Frog-River-One](Codility/FrogRiverOne.py)<br>
+**06** [Max-Counters](Codility/MaxCounters.py)<br>
+**07** [Perm-Check](Codility/PermCheck.py)<br>
+**08** [Max-Product-of-Three](Codility/MaxProductOfThree.py)<br>
+**09** [Test01](Codility/Test01.py)<br>
+**10** [Test02](Codility/Test02.py)<br>
+**11** [Test02](Codility/Test03.py)<br>
