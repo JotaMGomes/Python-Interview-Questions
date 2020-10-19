@@ -33,4 +33,8 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **08** [Max-Product-of-Three](Codility/MaxProductOfThree.py)<br>
 **09** [Test01](Codility/Test01.py)<br>
 **10** [Test02](Codility/Test02.py)<br>
-**11** [Test02](Codility/Test03.py)<br>
+**11** [Test03](Codility/Test03.py)<br>
+
+## [HackerHank](https://www.hackerrank.com/domains/data-structures)
+**01** [2D-Arrays](HackerRank/2d-array.py)<br>
+**02** [Left-Rotation](HackerRank/left-rotation.py)<br>

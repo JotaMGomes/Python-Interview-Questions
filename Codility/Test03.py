@@ -1,5 +1,4 @@
 # Jose Luiz Mattos Gomes
-# not finished
 
 class Solution:
   def solution(self, A)-> int:
