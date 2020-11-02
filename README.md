@@ -42,3 +42,4 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 ## [Amazon]
 **01** [Eight-Houses](Amazon/EightHouses.py)<br>
 **02** [Different-Clusters](Amazon/DifferentClusters.py)<br>
+**02** [Upodate-Servers](Amazon/UpdateServers.py)<br>
