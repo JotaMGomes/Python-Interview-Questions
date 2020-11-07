@@ -22,4 +22,7 @@ vNums01 = [1,2,3,4,5,6,7]
 vTarget01 = 3
 s.rotate(vNums01, vTarget01)
 print(vNums01)
-
+s.rotate(vNums01, vTarget01)
+vNums01 = [1,2,3,4]
+vTarget01 = 4
+print(vNums01)

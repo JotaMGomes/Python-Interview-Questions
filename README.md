@@ -10,7 +10,7 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **05** [Two-Sum](LeetCode/TwoSum.py)<br>
 **06** [Reverse-String](LeetCode/ReverseString.py)<br>
 **07** [Single-Number](LeetCode/SingleNumber.py)<br>
-**08** [Maximum-Depth-of-Binary-Tree](LeetCode/SingleNumber.py)<br>
+**08** [Maximum-Depth-of-Binary-Tree](LeetCode/MaxDepthBinTree.py)<br>
 **09** [FizzBuzz](LeetCode/FizzBuzz.py)<br>
 **10** [Reverse-Linked-List](LeetCode/ReverseLinkedList.py)<br>
 **11** [Reverse-Integer](LeetCode/ReversInteger.py)<br>
@@ -22,18 +22,24 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **17** [Best-Time-Buy-Sell-Stock](LeetCode/BestTimeProfit.py)<br>
 **18** [Arranging-Coins](LeetCode/ArrangingCoins.py)<br>
 
+
 ## [Codility](https://app.codility.com/programmers/)
-**01** [Code-Demo](Codility/CodeDemo.py)<br>
-**02** [Binary-Gap](Codility/BinaryGap.py)<br>
-**03** [Frog-Jmp](Codility/FrogJmp.py)<br>
-**04** [Tape-Equilibrium](Codility/TapeEquilibrium.py)<br>
-**05** [Frog-River-One](Codility/FrogRiverOne.py)<br>
-**06** [Max-Counters](Codility/MaxCounters.py)<br>
-**07** [Perm-Check](Codility/PermCheck.py)<br>
-**08** [Max-Product-of-Three](Codility/MaxProductOfThree.py)<br>
-**09** [Test01](Codility/Test01.py)<br>
-**10** [Test02](Codility/Test02.py)<br>
-**11** [Test03](Codility/Test03.py)<br>
+**01** [Test01](Codility/Test01.py)<br>
+**02** [Test02](Codility/Test02.py)<br>
+**03** [Test03](Codility/Test03.py)<br>
+**04** [Code-Demo](Codility/CodeDemo.py)<br>
+**05** [Binary-Gap](Codility/BinaryGap.py)<br>
+**06** [Frog-Jmp](Codility/FrogJmp.py)<br>
+**07** [Tape-Equilibrium](Codility/TapeEquilibrium.py)<br>
+**08** [Frog-River-One](Codility/FrogRiverOne.py)<br>
+**09** [Max-Counters](Codility/MaxCounters.py)<br>
+**10** [Perm-Check](Codility/PermCheck.py)<br>
+**11** [Max-Product-of-Three](Codility/MaxProductOfThree.py)<br>
+**12** [Odd-Ocurrences-in-Array](Codility/OddOccurrencesInArray.py)<br>
+**13** [Perm-Missing-Elem](Codility/PermMissingElem.py)<br>
+**14** [Count-Div](Codility/CountDiv.py)<br>
+
+
 
 ## [HackerHank](https://www.hackerrank.com/domains/data-structures)
 **01** [2D-Arrays](HackerRank/2d-array.py)<br>
