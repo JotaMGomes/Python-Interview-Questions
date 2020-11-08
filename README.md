@@ -38,6 +38,8 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **12** [Odd-Ocurrences-in-Array](Codility/OddOccurrencesInArray.py)<br>
 **13** [Perm-Missing-Elem](Codility/PermMissingElem.py)<br>
 **14** [Count-Div](Codility/CountDiv.py)<br>
+**15** [Genomic-Range-Query](Codility/GenomicRangeQuery.py)<br>
+
 
 
 
