@@ -39,7 +39,9 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **13** [Perm-Missing-Elem](Codility/PermMissingElem.py)<br>
 **14** [Count-Div](Codility/CountDiv.py)<br>
 **15** [Genomic-Range-Query](Codility/GenomicRangeQuery.py)<br>
-
+**16** [Passing-Cars](Codility/PassingCars.py)<br>
+**17** [Distict-Values](Codility/DistinctValues.py)<br>
+**18** [Number-Of-Disc-Intersections](Codility/NumberOfDiscIntersections.py)<br>
 
 
 
