@@ -42,6 +42,7 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **16** [Passing-Cars](Codility/PassingCars.py)<br>
 **17** [Distict-Values](Codility/DistinctValues.py)<br>
 **18** [Number-Of-Disc-Intersections](Codility/NumberOfDiscIntersections.py)<br>
+**19** [Triangles](Codility/Triangles.py)<br>
 
 
 
