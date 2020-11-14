@@ -43,6 +43,7 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **17** [Distict-Values](Codility/DistinctValues.py)<br>
 **18** [Number-Of-Disc-Intersections](Codility/NumberOfDiscIntersections.py)<br>
 **19** [Triangles](Codility/Triangles.py)<br>
+**20** [Brackets](Codility/Brackets.py)<br>
 
 
 

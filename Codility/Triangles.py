@@ -4,7 +4,6 @@
 from typing import List
 
 class Solution:
-
   def s(sel, A:List)->int:
     A.sort()
     i = 0
