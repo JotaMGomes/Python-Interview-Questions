@@ -45,7 +45,7 @@ Obs.: When more then one solution: My first attempt and after some research.<br>
 **19** [Triangles](Codility/Triangles.py)<br>
 **20** [Brackets](Codility/Brackets.py)<br>
 **21** [Alive-Fishes](Codility/AliveFishes.py)<br>
-
+**22** [Stone-Wall](Codility/StoneWall.py)<br>
 
 
 ## [HackerHank](https://www.hackerrank.com/domains/data-structures)

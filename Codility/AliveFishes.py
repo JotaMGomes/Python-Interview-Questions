@@ -13,7 +13,7 @@ class Solution:
       if B[i] == 0:
         # downstream
         while len(upstream) > 0:
-          if A[i] > upstream[len(upstream)-1]:
+          if A[i] > upstream[-1]:
             upstream.pop()
           else:
             break
